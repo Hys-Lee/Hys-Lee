@@ -18,8 +18,10 @@
 <!-- dev's log -->
 
 > ## Dev's Logs
+<a href='https://velog.io/@hys-lee'>
+<img src="https://velog-readme-stats.vercel.app/api?name=hys-lee">
+</a>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hys-lee)](https://github.com/eungyeole/velog-readme-stats)
 
 <!-- ## Recent Project  아니 contribute한거는 안보이나? 아니면 외부 레포지토리라든가
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hys-Lee&repo=Problem-Solving)](https://github.com/anuraghazra/github-readme-stats) -->
